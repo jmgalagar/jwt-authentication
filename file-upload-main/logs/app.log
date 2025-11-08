@@ -1,0 +1,273 @@
+2025-10-18 16:49:02,250 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 16:49:02,250 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 16:49:02,253 [INFO]  * Restarting with stat
+2025-10-18 16:49:03,321 [WARNING]  * Debugger is active!
+2025-10-18 16:49:03,327 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 17:11:27,832 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:11:27,833 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:11:27,836 [INFO]  * Restarting with stat
+2025-10-18 17:11:29,034 [WARNING]  * Debugger is active!
+2025-10-18 17:11:29,042 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 18:06:30,142 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:06:30,143 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:06:30,147 [INFO]  * Restarting with stat
+2025-10-18 18:06:31,194 [WARNING]  * Debugger is active!
+2025-10-18 18:06:31,211 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 18:12:08,116 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:12:08,116 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:12:08,120 [INFO]  * Restarting with stat
+2025-10-18 18:12:09,523 [WARNING]  * Debugger is active!
+2025-10-18 18:12:09,529 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 18:21:32,566 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:21:32,567 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:21:32,569 [INFO]  * Restarting with stat
+2025-10-18 18:21:33,721 [WARNING]  * Debugger is active!
+2025-10-18 18:21:33,727 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 18:22:09,511 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:22:09,511 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:22:09,516 [INFO]  * Restarting with stat
+2025-10-18 18:22:10,722 [WARNING]  * Debugger is active!
+2025-10-18 18:22:10,728 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 18:52:24,971 [INFO] 127.0.0.1 - - [18/Oct/2025 18:52:24] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:52:59,735 [INFO] 127.0.0.1 - - [18/Oct/2025 18:52:59] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 18:53:55,309 [INFO] 127.0.0.1 - - [18/Oct/2025 18:53:55] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 19:00:10,898 [INFO] 127.0.0.1 - - [18/Oct/2025 19:00:10] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 19:01:26,641 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:26] "[33mGET /file HTTP/1.1[0m" 404 -
+2025-10-18 19:01:32,393 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:32] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 19:28:49,721 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 19:28:49,729 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 19:28:49,985 [INFO]  * Restarting with stat
+2025-10-18 19:28:50,017 [INFO]  * Restarting with stat
+2025-10-18 19:28:51,764 [WARNING]  * Debugger is active!
+2025-10-18 19:28:51,764 [WARNING]  * Debugger is active!
+2025-10-18 19:28:51,771 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 19:28:51,772 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 19:29:01,954 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 19:29:01,955 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 19:37:17,680 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 19:37:17,680 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 19:44:58,513 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 19:44:58,513 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 19:44:58,517 [INFO]  * Restarting with stat
+2025-10-18 19:44:59,704 [WARNING]  * Debugger is active!
+2025-10-18 19:44:59,709 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 19:49:44,238 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 19:49:44,238 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 19:49:44,241 [INFO]  * Restarting with stat
+2025-10-18 19:49:45,454 [WARNING]  * Debugger is active!
+2025-10-18 19:49:45,463 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 19:58:36,666 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 19:58:36,666 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 19:58:36,668 [INFO]  * Restarting with stat
+2025-10-18 19:58:37,856 [WARNING]  * Debugger is active!
+2025-10-18 19:58:37,862 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:13,253 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:00:13,271 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:00:13,284 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:00:13,526 [INFO]  * Restarting with stat
+2025-10-18 20:00:13,539 [INFO]  * Restarting with stat
+2025-10-18 20:00:13,542 [INFO]  * Restarting with stat
+2025-10-18 20:00:15,609 [WARNING]  * Debugger is active!
+2025-10-18 20:00:15,609 [WARNING]  * Debugger is active!
+2025-10-18 20:00:15,617 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:15,619 [WARNING]  * Debugger is active!
+2025-10-18 20:00:15,619 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:15,628 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:16,805 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-18 20:00:17,020 [INFO]  * Restarting with stat
+2025-10-18 20:00:17,029 [INFO]  * Restarting with stat
+2025-10-18 20:00:17,832 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-18 20:00:18,009 [INFO]  * Restarting with stat
+2025-10-18 20:00:18,491 [WARNING]  * Debugger is active!
+2025-10-18 20:00:18,502 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:18,521 [WARNING]  * Debugger is active!
+2025-10-18 20:00:18,533 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:19,332 [WARNING]  * Debugger is active!
+2025-10-18 20:00:19,340 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:32,504 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:00:32,673 [INFO]  * Restarting with stat
+2025-10-18 20:00:32,812 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:00:32,818 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:00:33,006 [INFO]  * Restarting with stat
+2025-10-18 20:00:33,019 [INFO]  * Restarting with stat
+2025-10-18 20:00:34,162 [WARNING]  * Debugger is active!
+2025-10-18 20:00:34,170 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:34,348 [WARNING]  * Debugger is active!
+2025-10-18 20:00:34,354 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:34,397 [WARNING]  * Debugger is active!
+2025-10-18 20:00:34,405 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:40,807 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:00:40,814 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:00:40,844 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:00:41,035 [INFO]  * Restarting with stat
+2025-10-18 20:00:41,037 [INFO]  * Restarting with stat
+2025-10-18 20:00:41,086 [INFO]  * Restarting with stat
+2025-10-18 20:00:42,431 [WARNING]  * Debugger is active!
+2025-10-18 20:00:42,441 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:42,443 [WARNING]  * Debugger is active!
+2025-10-18 20:00:42,451 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:42,460 [WARNING]  * Debugger is active!
+2025-10-18 20:00:42,471 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:48,032 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:00:48,041 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:00:48,056 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:00:48,303 [INFO]  * Restarting with stat
+2025-10-18 20:00:48,320 [INFO]  * Restarting with stat
+2025-10-18 20:00:48,346 [INFO]  * Restarting with stat
+2025-10-18 20:00:49,794 [WARNING]  * Debugger is active!
+2025-10-18 20:00:49,798 [WARNING]  * Debugger is active!
+2025-10-18 20:00:49,800 [WARNING]  * Debugger is active!
+2025-10-18 20:00:49,803 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:49,808 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:00:49,810 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:08,578 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:03:08,584 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:03:08,598 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\app.py', reloading
+2025-10-18 20:03:08,851 [INFO]  * Restarting with stat
+2025-10-18 20:03:08,868 [INFO]  * Restarting with stat
+2025-10-18 20:03:08,874 [INFO]  * Restarting with stat
+2025-10-18 20:03:10,789 [WARNING]  * Debugger is active!
+2025-10-18 20:03:10,797 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:10,807 [WARNING]  * Debugger is active!
+2025-10-18 20:03:10,816 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:10,825 [WARNING]  * Debugger is active!
+2025-10-18 20:03:10,834 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:11,923 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-18 20:03:11,952 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-18 20:03:11,957 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\controllers\\file_controller.py', reloading
+2025-10-18 20:03:12,283 [INFO]  * Restarting with stat
+2025-10-18 20:03:12,295 [INFO]  * Restarting with stat
+2025-10-18 20:03:12,310 [INFO]  * Restarting with stat
+2025-10-18 20:03:14,055 [WARNING]  * Debugger is active!
+2025-10-18 20:03:14,060 [WARNING]  * Debugger is active!
+2025-10-18 20:03:14,065 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:14,069 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:14,070 [WARNING]  * Debugger is active!
+2025-10-18 20:03:14,078 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:16,239 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:03:16,249 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:03:16,254 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\extensions.py', reloading
+2025-10-18 20:03:16,514 [INFO]  * Restarting with stat
+2025-10-18 20:03:16,516 [INFO]  * Restarting with stat
+2025-10-18 20:03:16,525 [INFO]  * Restarting with stat
+2025-10-18 20:03:18,317 [WARNING]  * Debugger is active!
+2025-10-18 20:03:18,326 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:18,339 [WARNING]  * Debugger is active!
+2025-10-18 20:03:18,348 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:18,372 [WARNING]  * Debugger is active!
+2025-10-18 20:03:18,381 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:18,488 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:03:18,670 [INFO]  * Restarting with stat
+2025-10-18 20:03:19,445 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:03:19,599 [INFO]  * Restarting with stat
+2025-10-18 20:03:19,641 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\models\\uploaded_file.py', reloading
+2025-10-18 20:03:19,949 [INFO]  * Restarting with stat
+2025-10-18 20:03:20,299 [WARNING]  * Debugger is active!
+2025-10-18 20:03:20,315 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:21,259 [WARNING]  * Debugger is active!
+2025-10-18 20:03:21,268 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:21,359 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:03:21,400 [WARNING]  * Debugger is active!
+2025-10-18 20:03:21,407 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:21,456 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:03:21,560 [INFO]  * Restarting with stat
+2025-10-18 20:03:21,687 [INFO]  * Restarting with stat
+2025-10-18 20:03:22,521 [INFO]  * Detected change in 'C:\\Users\\John\\file-upload\\services\\file_service.py', reloading
+2025-10-18 20:03:22,699 [INFO]  * Restarting with stat
+2025-10-18 20:03:23,343 [WARNING]  * Debugger is active!
+2025-10-18 20:03:23,352 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:23,366 [WARNING]  * Debugger is active!
+2025-10-18 20:03:23,376 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:24,230 [WARNING]  * Debugger is active!
+2025-10-18 20:03:24,236 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:03:34,906 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 20:03:34,907 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 20:03:34,909 [INFO]  * Restarting with stat
+2025-10-18 20:03:36,164 [WARNING]  * Debugger is active!
+2025-10-18 20:03:36,169 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:14:19,923 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 20:14:19,923 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 20:14:19,926 [INFO]  * Restarting with stat
+2025-10-18 20:14:21,070 [WARNING]  * Debugger is active!
+2025-10-18 20:14:21,088 [INFO]  * Debugger PIN: 361-290-912
+2025-10-18 20:29:20,425 [INFO] 127.0.0.1 - - [18/Oct/2025 20:29:20] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:29:49,045 [INFO] 127.0.0.1 - - [18/Oct/2025 20:29:49] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:30:28,586 [INFO] 127.0.0.1 - - [18/Oct/2025 20:30:28] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:30:32,227 [INFO] 127.0.0.1 - - [18/Oct/2025 20:30:32] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:31:06,601 [INFO] 127.0.0.1 - - [18/Oct/2025 20:31:06] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:31:08,705 [INFO] 127.0.0.1 - - [18/Oct/2025 20:31:08] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:31:43,276 [INFO] 127.0.0.1 - - [18/Oct/2025 20:31:43] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+2025-10-18 20:31:58,975 [INFO] 127.0.0.1 - - [18/Oct/2025 20:31:58] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 20:32:06,561 [INFO] 127.0.0.1 - - [18/Oct/2025 20:32:06] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 20:32:30,884 [INFO] 127.0.0.1 - - [18/Oct/2025 20:32:30] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 20:34:35,823 [INFO] 127.0.0.1 - - [18/Oct/2025 20:34:35] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 20:38:18,671 [ERROR] Upload error: File type not allowed
+2025-10-18 20:38:18,672 [INFO] 127.0.0.1 - - [18/Oct/2025 20:38:18] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 20:39:54,924 [INFO] File saved: uploads/bbc10cb3d8124e21930a71ca22359f18\1f32cee475044ed68a599875a95aa34c_invoker_1.jpg
+2025-10-18 20:39:54,931 [INFO] 127.0.0.1 - - [18/Oct/2025 20:39:54] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:39:57,804 [INFO] File saved: uploads/47d4179635a54e15bcf19ff37660e1fa\0b119aff9e3d496bbb07abe22e9fbb50_invoker_1.jpg
+2025-10-18 20:39:57,808 [INFO] 127.0.0.1 - - [18/Oct/2025 20:39:57] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:41:02,184 [INFO] File saved: uploads/e011651621ea4d2d8d9ca2e7b2708703\f51e2da5d48e4b659c9628865c590af7_invoker_1.jpg
+2025-10-18 20:41:02,187 [INFO] 127.0.0.1 - - [18/Oct/2025 20:41:02] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:42:06,960 [INFO] 127.0.0.1 - - [18/Oct/2025 20:42:06] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 20:42:17,982 [INFO] 127.0.0.1 - - [18/Oct/2025 20:42:17] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 20:42:49,431 [INFO] 127.0.0.1 - - [18/Oct/2025 20:42:49] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 20:43:04,225 [INFO] 127.0.0.1 - - [18/Oct/2025 20:43:04] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 20:43:14,633 [INFO] 127.0.0.1 - - [18/Oct/2025 20:43:14] "[33mGET /file/4 HTTP/1.1[0m" 404 -
+2025-10-18 20:51:00,127 [INFO] File saved: uploads\f5ff40448a954a1c87c3cc4ac027807d_panda.jpg
+2025-10-18 20:51:00,142 [INFO] File updated: ID=3
+2025-10-18 20:51:00,144 [INFO] 127.0.0.1 - - [18/Oct/2025 20:51:00] "PUT /file/3 HTTP/1.1" 200 -
+2025-10-18 20:51:30,975 [INFO] 127.0.0.1 - - [18/Oct/2025 20:51:30] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 20:52:05,857 [INFO] File deleted from storage: uploads/47d4179635a54e15bcf19ff37660e1fa\0b119aff9e3d496bbb07abe22e9fbb50_invoker_1.jpg
+2025-10-18 20:52:05,877 [INFO] Record deleted: ID=2
+2025-10-18 20:52:05,878 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:05] "DELETE /file/2 HTTP/1.1" 200 -
+2025-10-18 20:52:10,908 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:10] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 20:52:14,851 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:14] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 20:52:21,754 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:21] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 20:52:30,937 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:30] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 20:52:36,056 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:36] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 20:52:41,091 [INFO] 127.0.0.1 - - [18/Oct/2025 20:52:41] "GET /file/3 HTTP/1.1" 200 -
+2025-11-08 12:49:40,440 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-08 12:49:40,440 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-08 12:49:40,443 [INFO]  * Restarting with stat
+2025-11-08 12:49:41,521 [WARNING]  * Debugger is active!
+2025-11-08 12:49:41,530 [INFO]  * Debugger PIN: 109-105-135
+2025-11-08 12:50:52,845 [INFO] 127.0.0.1 - - [08/Nov/2025 12:50:52] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-11-08 12:51:50,876 [INFO] File saved: uploads/6714bc1e82b043c0a2dd6ec6064729ac\f3fd2cddcb074b92980bb0c38b72de66_pennywise.jpg
+2025-11-08 12:51:50,880 [INFO] 127.0.0.1 - - [08/Nov/2025 12:51:50] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-11-08 12:52:07,311 [INFO] 127.0.0.1 - - [08/Nov/2025 12:52:07] "GET /file/22 HTTP/1.1" 200 -
+2025-11-08 12:52:25,025 [INFO] File saved: uploads\6589716f326242509ea2fcc8870e862f_invoker.jpg
+2025-11-08 12:52:25,035 [INFO] File updated: ID=22
+2025-11-08 12:52:25,038 [INFO] 127.0.0.1 - - [08/Nov/2025 12:52:25] "PUT /file/22 HTTP/1.1" 200 -
+2025-11-08 12:52:29,796 [INFO] 127.0.0.1 - - [08/Nov/2025 12:52:29] "GET /file/22 HTTP/1.1" 200 -
+2025-11-08 12:52:34,384 [INFO] File deleted from storage: uploads\6589716f326242509ea2fcc8870e862f_invoker.jpg
+2025-11-08 12:52:34,392 [INFO] Record deleted: ID=22
+2025-11-08 12:52:34,393 [INFO] 127.0.0.1 - - [08/Nov/2025 12:52:34] "DELETE /file/22 HTTP/1.1" 200 -
+2025-11-08 12:52:37,907 [INFO] 127.0.0.1 - - [08/Nov/2025 12:52:37] "[33mGET /file/22 HTTP/1.1[0m" 404 -
+2025-11-08 12:59:37,260 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-08 12:59:37,260 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-08 12:59:37,264 [INFO]  * Restarting with stat
+2025-11-08 12:59:38,374 [WARNING]  * Debugger is active!
+2025-11-08 12:59:38,381 [INFO]  * Debugger PIN: 109-105-135
+2025-11-08 13:00:35,316 [INFO] 127.0.0.1 - - [08/Nov/2025 13:00:35] "[33mPOST /auth/login HTTP/1.1[0m" 404 -
+2025-11-08 13:00:56,355 [INFO] 127.0.0.1 - - [08/Nov/2025 13:00:56] "[33mPOST /auth/login HTTP/1.1[0m" 404 -
+2025-11-08 13:01:17,462 [INFO] 127.0.0.1 - - [08/Nov/2025 13:01:17] "[33mPOST /auth/login HTTP/1.1[0m" 404 -
+2025-11-08 13:01:33,115 [INFO]  * Detected change in 'C:\\Users\\John\\jwt-authentication\\file-upload-main\\app.py', reloading
+2025-11-08 13:01:33,277 [INFO]  * Restarting with stat
+2025-11-08 13:01:33,737 [INFO]  * Detected change in 'C:\\Users\\John\\jwt-authentication\\file-upload-main\\app.py', reloading
+2025-11-08 13:01:33,871 [INFO]  * Restarting with stat
