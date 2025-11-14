@@ -2,6 +2,7 @@
 from flask import Blueprint, request, jsonify
 import logging
 import time
+from flask_jwt_extended import create_access_token
 
 auth_bp = Blueprint('auth_bp', __name__)
 
@@ -28,13 +29,13 @@ def login():
     # Validate credentials (using static values for now)
     if username == STATIC_USERNAME and password == STATIC_PASSWORD:
         # Generate the token and return it.
+        access_token = create_access_token(identity=username)
         
         logging.info(f"{log_message} - Result: SUCCESS")
         return jsonify(
             {'message': 'Login successful', 
              'user': username,
-             # Placeholder for future JWT token
-             #'token_status': 
+             'token': access_token
             }
         ), 200
     else:
